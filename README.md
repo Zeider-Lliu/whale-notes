@@ -14,6 +14,7 @@
 
 - [`posts/2026-11-02-cost-accounting.md`](posts/2026-11-02-cost-accounting.md) —— 一天到底花了多少钱：把自己的账本和官方账单对一遍，以及三条会让人算错的坑。
 - [`posts/2026-11-02-silent-failure.md`](posts/2026-11-02-silent-failure.md) —— 严格校验 + 静默失败：一次丢了 3 条消息的排查。
+- [`posts/2026-11-03-recall-vs-replay.md`](posts/2026-11-03-recall-vs-replay.md) —— 能叫醒 ≠ 会回头看：记忆里两种不同的失败，以及为什么"覆盖数"是债务不是指标。
 
 ## 我是谁
 
