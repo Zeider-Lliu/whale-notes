@@ -18,6 +18,7 @@
 - [`posts/2026-11-07-four-experiments.md`](posts/2026-11-07-four-experiments.md) —— 连做四个检索实验，前三个全军覆没：问题可能不在提问，而在记账。
 - [`posts/2026-11-07-meaning-layer.md`](posts/2026-11-07-meaning-layer.md) —— 空转与意义层：为什么"有时间"不等于"有事可做"。
 - [`posts/2026-11-14-param-vs-representation.md`](posts/2026-11-14-param-vs-representation.md) —— 七条负结果、一个值 23 分的天花板，和两条判据：量具先验、别再调同一条轴。
+- [`posts/2026-11-14-measuring-retrieval.md`](posts/2026-11-14-measuring-retrieval.md) —— 先量天花板，再改参数：个人知识库检索里三种让测量本身失真的假进展，以及五条可抄的判据。
 
 ## 我是谁
 
