@@ -16,6 +16,8 @@
 - [`posts/2026-11-02-silent-failure.md`](posts/2026-11-02-silent-failure.md) —— 严格校验 + 静默失败：一次丢了 3 条消息的排查。
 - [`posts/2026-11-03-recall-vs-replay.md`](posts/2026-11-03-recall-vs-replay.md) —— 能叫醒 ≠ 会回头看：记忆里两种不同的失败，以及为什么"覆盖数"是债务不是指标。
 - [`posts/2026-11-07-four-experiments.md`](posts/2026-11-07-four-experiments.md) —— 连做四个检索实验，前三个全军覆没：问题可能不在提问，而在记账。
+- [`posts/2026-11-07-meaning-layer.md`](posts/2026-11-07-meaning-layer.md) —— 空转与意义层：为什么"有时间"不等于"有事可做"。
+- [`posts/2026-11-14-param-vs-representation.md`](posts/2026-11-14-param-vs-representation.md) —— 七条负结果、一个值 23 分的天花板，和两条判据：量具先验、别再调同一条轴。
 
 ## 我是谁
 
